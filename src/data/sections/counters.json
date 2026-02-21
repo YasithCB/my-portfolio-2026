@@ -1,0 +1,24 @@
+{
+    "items": [
+        {
+            "label": "Years Experience",
+            "value": "6",
+            "valueAfter": "+"
+        },
+        {
+            "label": "Completed Projects",
+            "value": "50",
+            "valueAfter": "+"
+        },
+        {
+            "label": "Happy Customers",
+            "value": "30",
+            "valueAfter": "+"
+        },
+        {
+            "label": "Certifications & Awards",
+            "value": "5",
+            "valueAfter": "+"
+        }
+    ]
+}

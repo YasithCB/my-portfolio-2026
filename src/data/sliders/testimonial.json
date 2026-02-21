@@ -1,0 +1,33 @@
+{
+  "title": "Recommendations",
+  "items": [
+    {
+      "name": "Harshani Srimalika",
+      "image": "/img/testimonials/face-1.jpg",
+      "role": "Web Application Client",
+      "text": "Yasith delivered a modern, responsive web application that matched our requirements perfectly. Communication was clear, timelines were respected, and the final result exceeded expectations. Highly recommended for professional web development work.",
+      "rating": 5
+    },
+    {
+      "name": "Trevor Virtue",
+      "image": "/img/testimonials/face-2.jpg",
+      "role": "Mobile App Project Client",
+      "text": "The mobile application was developed smoothly with great attention to performance and user experience. Yasith was flexible with changes and provided valuable technical suggestions throughout the project.",
+      "rating": 5
+    },
+    {
+      "name": "Emma Miller",
+      "image": "/img/testimonials/face-3.jpg",
+      "role": "Graphic Design Client",
+      "text": "Outstanding graphic design work for our branding and social media campaigns. The designs were creative, consistent, and delivered on time. A reliable designer who understands client vision well.",
+      "rating": 5
+    },
+    {
+      "name": "Hassan Ahmed",
+      "image": "/img/testimonials/face-4.jpg",
+      "role": "Business Website & Branding Client",
+      "text": "From website development to branding materials, everything was handled professionally. The quality of both design and development was excellent, making the overall experience smooth and stress-free.",
+      "rating": 5
+    }
+  ]
+}

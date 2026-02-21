@@ -1,0 +1,53 @@
+{
+    "title": "Contact information",
+    "items": [
+        {
+            "info": [
+                {
+                    "label": "Country",
+                    "value": "United Arab Emirates"
+                },
+                {
+                    "label": "City",
+                    "value": "Dubai"
+                },
+                {
+                    "label": "Location",
+                    "value": "Word Trade Center"
+                }
+            ]
+        },
+        {
+            "info": [
+                {
+                    "label": "Email",
+                    "value": "yasith.cb2001@gmail.com"
+                },
+                {
+                    "label": "Whatsapp",
+                    "value": "+971557587705"
+                },
+                {
+                    "label": "Telegram",
+                    "value": "@Yasith_C_Bandara"
+                }
+            ]
+        },
+        {
+            "info": [
+                {
+                    "label": "Support service",
+                    "value": "+971588085149"
+                },
+                {
+                    "label": "Office",
+                    "value": "+971588085149"
+                },
+                {
+                    "label": "Personal",
+                    "value": "+971557587705"
+                }
+            ]
+        }
+    ]
+}

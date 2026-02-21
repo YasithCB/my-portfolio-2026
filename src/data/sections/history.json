@@ -1,0 +1,78 @@
+{
+  "col1": {
+    "title": "Education",
+    "items": [
+      {
+        "title": "Graduate Diploma in Software Engineering | GDSE",
+        "subtitle": "Student",
+        "date": "2022 - 2024",
+        "text": "IJSE | Institute of Software Engineering",
+        "button": {
+          "link": "/files/certificate.jpg",
+          "type": "image",
+          "label": "Higher Diploma"
+        }
+      },
+      {
+        "title": "GCE Advanced Level [Physical Science]",
+        "subtitle": "Student",
+        "date": "2017 - 2020",
+        "text": "Sivali Central Collage - Sri Lanka"
+      },
+      {
+        "title": "GCE Ordinary Level [With A9 Result]",
+        "subtitle": "Student",
+        "date": "2015 - 2017",
+        "text": "Sivali Central Collage - Sri Lanka"
+      },
+      {
+        "title": "Data Science & Analytics",
+        "subtitle": "Certificate Course",
+        "date": "2025",
+        "text": "HP Life | HP Foundation",
+        "button": {
+          "link": "/files/certificate.jpg",
+          "type": "image",
+          "label": "Certificate"
+        }
+      },
+      {
+        "title": "Fundamentals of Digital Marketing",
+        "subtitle": "Certificate Course",
+        "date": "2025",
+        "text": "Google",
+        "button": {
+          "link": "/files/certificate.jpg",
+          "type": "image",
+          "label": "Certificate"
+        }
+      }
+    ]
+  },
+  "col2": {
+    "title": "Work History",
+    "items": [
+      {
+        "title": "Data Entry Operator",
+        "subtitle": "Shuaa Paper & Plastic Products LLC",
+        "subtitle2": "Abu Dhabi | UAE",
+        "date": "2026 - 2025",
+        "text": "Handled accurate data entry, document management, reporting tasks, and maintained organized digital records while supporting daily administrative operations."
+      },
+      {
+        "title": "Associate Software Engineer",
+        "subtitle": "Ceyentra Technologies",
+        "subtitle2": "Sri Lanka",
+        "date": "2024 - 2025",
+        "text": "Developed and maintained web applications, collaborated with teams, fixed bugs, and contributed to scalable software solutions."
+      },
+      {
+        "title": "Graphic Designer & Social Media Manager",
+        "subtitle": "DFactor Group",
+        "subtitle2": "Sri Lanka",
+        "date": "2024-2025",
+        "text": "Designed creative visuals, managed social media content, planned campaigns, and increased brand engagement across multiple digital platforms."
+      }
+    ]
+  }
+}

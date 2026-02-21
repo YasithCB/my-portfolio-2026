@@ -1,0 +1,53 @@
+{
+  "title": "My Services",
+  "items": [
+    {
+      "title": "Web Development",
+      "text": "I build fast, responsive, and scalable websites using modern technologies, ensuring clean code, strong performance, and a seamless experience across all devices.",
+      "button": {
+        "link": "/contact",
+        "label": "Order now"
+      }
+    },
+    {
+      "title": "Mobile Development",
+      "text": "I develop user-friendly mobile applications with smooth performance, intuitive interfaces, and reliable functionality tailored for both Android and iOS platforms.",
+      "button": {
+        "link": "/contact",
+        "label": "Order now"
+      }
+    },
+    {
+      "title": "Game Design & Development",
+      "text": "I create engaging games with creative concepts, interactive gameplay, optimized performance, and visually appealing designs for an enjoyable user experience.",
+      "button": {
+        "link": "/contact",
+        "label": "Order now"
+      }
+    },
+    {
+      "title": "UI/UX Design",
+      "text": "I design clean and intuitive user interfaces focused on usability, aesthetics, and user experience to ensure clarity, consistency, and visual appeal.",
+      "button": {
+        "link": "/contact",
+        "label": "Order now"
+      }
+    },
+    {
+      "title": "Social Media Marketing",
+      "text": "I create effective social media strategies and visuals to boost engagement, grow brand awareness, and connect businesses with their target audience.",
+      "button": {
+        "link": "/contact",
+        "label": "Order now"
+      }
+    },
+    {
+      "title": "Branding & Advertising",
+      "text": "I build strong brand identities through creative design, consistent visuals, and impactful advertising that helps businesses stand out confidently.",
+      "button": {
+        "link": "/contact",
+        "label": "Order now"
+      }
+    }
+  ]
+}

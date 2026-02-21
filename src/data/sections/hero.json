@@ -1,0 +1,24 @@
+{
+    "bg_image": "/img/bg.jpg",
+    "title": "Where Design Meets Code <br/>With Impact!",
+    "subtitle": {
+        "start": "&lt;<i>code</i>&gt; I build ",
+        "rotates": [
+            "web interfaces.",
+            "ios and android applications.",
+            "enterprise applications.",
+            "design mockups.",
+            "all kind of graphics.",
+            "automation tools."
+        ],
+        "end": "&lt;/<i>code</i>&gt;"
+    },
+    "button": {
+        "link": "/projects",
+        "label": "Explore now"
+    },
+    "photo": {
+        "url": "img/face-2.png",
+        "alt": "Yasith C Bandara"
+    }
+}

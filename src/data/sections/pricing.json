@@ -1,0 +1,157 @@
+{
+  "title": "Price Plans",
+  "items": [
+    {
+      "title": "Company Profile Website",
+      "price": {
+        "before": "$",
+        "value": "149",
+        "after": ""
+      },
+      "list": [
+        {
+          "value": "Custom UI Design",
+          "active": 1
+        },
+        {
+          "value": "Responsive Website",
+          "active": 1
+        },
+        {
+          "value": "Single Page Company Website",
+          "active": 1
+        },
+        {
+          "value": "Contact Form",
+          "active": 1
+        },
+        {
+          "value": "WhatsApp click-to-chat button ",
+          "active": 1
+        },
+        {
+          "value": "Basic SEO",
+          "active": 1
+        },
+        {
+          "value": "Free deployment",
+          "active": 1
+        },
+        {
+          "value": "Website Maintenance",
+          "active": 1
+        },
+        {
+          "value": "Online Order",
+          "active": 0
+        }
+      ],
+      "button": {
+        "link": "/contact",
+        "label": "Get Started"
+      },
+      "info": "Professional company profile and service showcase website",
+      "popular": 0
+    },
+    {
+      "title": "WhatsApp Order Website",
+      "price": {
+        "before": "$",
+        "value": "399",
+        "after": ""
+      },
+      "list": [
+        {
+          "value": "Custom UI Design",
+          "active": 1
+        },
+        {
+          "value": "Up to 5 Pages Website",
+          "active": 1
+        },
+        {
+          "value": "Product / Menu Showcase",
+          "active": 1
+        },
+        {
+          "value": "Mobile Responsive Design",
+          "active": 1
+        },
+        {
+          "value": "Speed & Performance Optimization",
+          "active": 1
+        },
+        {
+          "value": "WhatsApp Order Integration",
+          "active": 1
+        },
+        {
+          "value": "Mobile App Add-on (Optional)",
+          "active": 1
+        },
+        {
+          "value": "Basic Admin Panel Add-on (Optional)",
+          "active": 1
+        },
+        {
+          "value": "Website Maintenance",
+          "active": 1
+        }
+      ],
+      "button": {
+        "link": "/contact",
+        "label": "Get Started"
+      },
+      "info": "Best for restaurants and small businesses accepting WhatsApp orders",
+      "popular": 1
+    },
+    {
+      "title": "E-Commerce Website",
+      "price": {
+        "before": "$",
+        "value": "799",
+        "after": ""
+      },
+      "list": [
+        {
+          "value": "Fully Customized Advanced UI/UX Design",
+          "active": 1
+        },
+        {
+          "value": "High-performance optimization",
+          "active": 1
+        },
+        {
+          "value": "Admin Dashboard & Order Management",
+          "active": 1
+        },
+        {
+          "value": "Shopping Cart System",
+          "active": 1
+        },
+        {
+          "value": "Online Order & Payment Gateway",
+          "active": 1
+        },
+        {
+          "value": "Advanced Security Setup",
+          "active": 1
+        },
+        {
+          "value": "Mobile App Add-on (Optional)",
+          "active": 1
+        },
+        {
+          "value": "Website Maintenance",
+          "active": 1
+        }
+      ],
+      "button": {
+        "link": "/contact",
+        "label": "Get Started"
+      },
+      "info": "Complete e-commerce solution with admin management",
+      "popular": 0
+    }
+  ]
+}

@@ -1,0 +1,235 @@
+{
+  "settings": {
+    "siteName": "Yasith C Bandara",
+    "siteDescription": "Personal Portfolio of Yasith C Bandara from Dubai | United Arab Emirates",
+    "formspreeURL": "#",
+    "mailchimp": {
+      "url": "",
+      "key": ""
+    },
+    "perPage": 6
+  },
+  "profile": {
+    "avatar": "/img/face-1.jpg",
+    "name": "Yasith C Bandara",
+    "role": "Software Engineer &<br>Graphic Designer",
+    "info": [
+      {
+        "label": "Residence",
+        "value": "UAE"
+      },
+      {
+        "label": "City",
+        "value": "Dubai"
+      },
+      {
+        "label": "Age",
+        "value": "25"
+      }
+    ],
+    "skills": {
+      "language": [
+        {
+          "label": "English",
+          "value": "1"
+        },
+        {
+          "label": "Hindi",
+          "value": "0.75"
+        },
+        {
+          "label": "Sinhala",
+          "value": "1"
+        }
+      ],
+      "hard": [
+        {
+          "label": "html",
+          "value": "0.9"
+        },
+        {
+          "label": "CSS",
+          "value": "0.9"
+        },
+        {
+          "label": "Js",
+          "value": "0.9"
+        },
+        {
+          "label": "NodeJs",
+          "value": "0.8"
+        },
+        {
+          "label": "React",
+          "value": "0.8"
+        },
+        {
+          "label": "Flutter",
+          "value": "0.8"
+        },
+        {
+          "label": "MySQL",
+          "value": "0.8"
+        },
+        {
+          "label": "MongoDB",
+          "value": "0.8"
+        },
+        {
+          "label": "Python",
+          "value": "0.5"
+        },
+        {
+          "label": "Photoshop",
+          "value": "0.8"
+        },
+        {
+          "label": "Illustrator",
+          "value": "0.8"
+        },
+        {
+          "label": "Premier Pro",
+          "value": "0.6"
+        },
+        {
+          "label": "After Effect",
+          "value": "0.6"
+        }
+      ],
+      "knowledge_software": [
+        {
+          "label": "Core Programming & Concepts"
+        },
+        {
+          "label": "Web & App Development"
+        },
+        {
+          "label": "Software Engineering Practices"
+        },
+        {
+          "label": "Databases & Tools"
+        },
+        {
+          "label": "Version Control & Collaboration"
+        }
+      ],
+      "knowledge_graphic":
+      [
+        { "label": "Visual Design & Creativity" },
+        { "label": "Branding & Identity Design" },
+        { "label": "UI / UX Design Principles" },
+        { "label": "Typography & Color Theory" },
+        { "label": "Social Media & Marketing Design" }
+      ]
+    },
+    "resume": "/files/Yasith_Bandara_CV.pdf"
+  },
+  "header": {
+    "topBackground": "/img/bg.jpg",
+    "menu": [
+      {
+        "label": "Home",
+        "link": "/",
+        "children": 0
+      },
+      {
+        "label": "History",
+        "link": "/history",
+        "children": 0
+      },
+      {
+        "label": "Projects",
+        "link": "/projects",
+        "children": [
+          {
+            "label": "Projects Masonry",
+            "link": "/projects"
+          },
+          {
+            "label": "Projects Grid",
+            "link": "/projects-2"
+          },
+          {
+            "label": "Projects Masonry 2",
+            "link": "/projects-3"
+          },
+          {
+            "label": "Projects Grid 2",
+            "link": "/projects-4"
+          }
+        ]
+      },
+      {
+        "label": "Blog",
+        "link": "/blog",
+        "children": [
+          {
+            "label": "Blog List",
+            "link": "/blog"
+          },
+          {
+            "label": "Blog List 2",
+            "link": "/blog-2"
+          },
+          {
+            "label": "Publication",
+            "link": "/blog/the-infrastructure-that-powers-the-world"
+          }
+        ]
+      },
+      {
+        "label": "Contact",
+        "link": "/contact",
+        "children": 0
+      },
+      {
+        "label": "Other",
+        "link": "/#.",
+        "children": [
+          {
+            "label": "Onepage",
+            "link": "/onepage"
+          }
+        ]
+      }
+    ]
+  },
+  "footer": {
+    "copy": "© 2026 Yasith C Bandara. All rights reserved.",
+    "developer": "Developed by&#160; <a href='' target='_blank'>Yasith C Bandara</a>"
+  },
+  "social": [
+    {
+      "link": "https://www.linkedin.com/in/yasith-c-bandara-22a415222/",
+      "icon": "fab fa-linkedin-in",
+      "title": "Linkedin"
+    },
+    {
+      "link": "https://github.com/YasithCB",
+      "icon": "fab fa-github",
+      "title": "Github"
+    },
+    {
+      "link": "https://www.facebook.com/profile.php?id=100007554916573",
+      "icon": "fab fa-facebook",
+      "title": "Facebook"
+    },
+    {
+      "link": "https://www.instagram.com/yasith_c_bandara/",
+      "icon": "fab fa-instagram",
+      "title": "Instagram"
+    }
+  ],
+  "projects": {
+    "categories": [
+      {
+        "name": "Software Projects",
+        "slug": "software-projects"
+      },
+      {
+        "name": "Graphic Works",
+        "slug": "graphic-works"
+      }
+    ]
+  }
+}

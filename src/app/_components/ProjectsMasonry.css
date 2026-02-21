@@ -1,0 +1,17 @@
+.scroll-container {
+    height: 500px;          /* visible area */
+    overflow: hidden;
+    position: relative;
+}
+
+.scroll-container img {
+    width: 100%;
+    height: auto;
+    display: block;
+    transform: translateY(0);
+    transition: transform 6s linear;
+}
+
+.scroll-hover:hover img {
+    transform: translateY(calc(-1 * var(--scroll-diff)));
+}
